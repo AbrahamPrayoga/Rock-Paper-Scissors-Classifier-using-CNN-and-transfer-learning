@@ -2,6 +2,9 @@
 This is my final submission of intro to machine learning course I took in Dicoding Academy. 
 I created my first image classifier that can classify whether the image are rock, paper or scissors. 
 I'm using CNN and also improved it by using pretrained model called MobileNetV2. 
+<br>
+<br>![image](https://user-images.githubusercontent.com/64680057/119951757-83c3a900-bfc6-11eb-8aac-743ed2a1876d.png)
+
 
 ## The dataset
 The dataset has 3 folder that represent rock, paper and scissor. You can find it on this link below:
@@ -35,6 +38,8 @@ I'm doing this project based on machine learning workflow I learnt from this cou
 4. Model Fitting, Visualize
 5. Create Improved Model: Transfer Learning using MobileNetV2
 6. Predict photo using trained models
+
+<br> And Thanks God, my model get 5 stars with 99% accuracy on train and validation. However I faced a problem where my model works poor in some cases. Do you have any recommendation?
 
 
 
